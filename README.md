@@ -7,6 +7,9 @@
 
 PyQt example of using transfer-learned ResNet50 model to distinguish 7 flowers
 
+## What is ResNet50?
+ResNet50 is an image classification model. While it is excellent on its own, it is often used in creating custom models due to its flexibility in transfer learning and fine-tuning.
+
 ## What is the difference between Transfer Learning and Fine Tuning
 Note: This is personal opinion by my observation.
 
