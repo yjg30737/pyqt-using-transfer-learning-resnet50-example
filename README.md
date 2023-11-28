@@ -50,5 +50,16 @@ For an example source of transfer learning a ResNet50 model to recognize seven t
 
 Also take a look at fine-tuning ResNet50 model example of PyQt: <a href="https://github.com/yjg30737/pyqt-using-finetuned-resnet50-example.git">pyqt-using-finetuned-resnet50-example</a>
 
+## Requirements
+* PyQt5 >= 5.14
+* torch
+* torchvision
+* numpy
+
+## How to Run
+1. git clone ~
+2. pip install -r requirements.txt
+3. python main.py
+
 ## Preview
 ![image](https://github.com/yjg30737/pyqt-using-transfer-learning-resnet50-example/assets/55078043/b18c087a-a5ee-45b4-b9b5-d85f5f3a2822)
