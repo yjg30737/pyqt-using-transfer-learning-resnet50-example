@@ -57,9 +57,11 @@ Also take a look at fine-tuning ResNet50 model example of PyQt: <a href="https:/
 * numpy
 
 ## How to Run
-1. git clone ~
-2. pip install -r requirements.txt
-3. python main.py
+1. Do the transfer larning model with notebook in the link above, get result.pth and download it
+2. git clone ~
+3. Put the downloaded model in the root folder
+4. pip install -r requirements.txt
+5. python main.py
 
 ## Preview
 ![image](https://github.com/yjg30737/pyqt-using-transfer-learning-resnet50-example/assets/55078043/b18c087a-a5ee-45b4-b9b5-d85f5f3a2822)
