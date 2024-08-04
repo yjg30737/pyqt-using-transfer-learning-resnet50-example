@@ -1,10 +1,4 @@
 # pyqt-using-transfer-learning-resnet50-example
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/55078043/229002952-9afe57de-b0b6-400f-9628-b8e0044d3f7b.png" width="150px" height="150px"><br/><br/>
-  
-  [![](https://dcbadge.vercel.app/api/server/cHekprskVE)](https://discord.gg/cHekprskVE)
-</div>
-
 PyQt example of using transfer-learned ResNet50 model to distinguish 7 flowers
 
 ## What is ResNet50?
